@@ -1,0 +1,14 @@
+Deployment URLs:
+- Frontend app (Vercel): https://sentiment-ananlysis-react.vercel.app/login
+- Backend app (Render): https://sentiment-analysis-flask-cdd2.onrender.com/
+Login Credentials:
+- Username: <your-email>
+- Password: <password>
+Localhost URLs:
+- Frontend app: http://localhost:3000/login
+- Backend app: http://127.0.0.1:5000
+NOTE:
+To update the backend API URL in the React app, modify the `API_BASE` variable in `src/api.js`.
+Instructions:
+Please use the above credentials to log in to the application and test the sentiment analysis
+features.
