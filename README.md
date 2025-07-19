@@ -4,7 +4,11 @@
 
 This project is a full-stack web application that enables users to input text and receive **AI-powered sentiment analysis**. The system provides real-time feedback on whether the sentiment is **Positive, Negative, or Neutral**, and displays the **confidence score**. A simple dashboard also displays a history of all previously analyzed texts.
 
-**Demo Video: **https://drive.google.com/file/d/1hsyrXwxGKqVPpP0bX343a-FOX1h7Mat1/view?usp=sharing
+---
+
+## 🎥 Demo Video
+
+**Demo Video**: [Watch here](https://drive.google.com/file/d/1hsyrXwxGKqVPpP0bX343a-FOX1h7Mat1/view?usp=sharing)
 
 ---
 
