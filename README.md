@@ -42,11 +42,15 @@ This project is a full-stack web application that enables users to input text an
 cd client
 npm install
 npm start
+```
 
 ### 🔹 Backend Setup (Python + Flask Example)
+
+```bash
 cd server
 pip install -r requirements.txt
 python app.py
+```
 
 For Express backend, use: npm install && node index.js
 
