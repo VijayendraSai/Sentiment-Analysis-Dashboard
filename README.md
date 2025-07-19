@@ -52,5 +52,3 @@ pip install -r requirements.txt
 python app.py
 ```
 
-For Express backend, use: npm install && node index.js
-
