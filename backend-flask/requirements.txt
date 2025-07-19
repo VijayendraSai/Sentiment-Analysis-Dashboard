@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+Flask-PyMongo
+python-dotenv
+pymongo
+requests
+Flask-JWT-Extended
+textblob==0.19.0
+gunicorn
